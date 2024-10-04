@@ -6,7 +6,10 @@ Starter_Code_21 Folder:
 - AlphabetSoupCharity.h5 file
 - Results and Analysis Report.docx file (Didn't know if this needed to be in a word document or the readme so I'll do both)
 
+
+
 Results
+
 Data Preprocessing:
 -	Target Variable:
   -	The target variable for the model is “IS SUCCESSFUL”, which indicates whether the funding was used effectively (1) or not (0).
