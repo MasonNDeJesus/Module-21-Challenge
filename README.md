@@ -34,9 +34,9 @@ Compiling, Training, and Evaluating the Model
 -	Achieved Performance:
   -	The model achieved an accuracy of approximately 72.91% on the test dataset, with a loss of 0.5631.
 -	Steps Taken to Increase Model Performance:
-  -	Adjusted the number of neurons and layers in the network.
-  -	Experimented with different activation functions.
-  -	Scaled the input features using “StandardScaler” to ensure that all features contribute equally to the model’s performance.
+    -	Adjusted the number of neurons and layers in the network.
+    -	Experimented with different activation functions.
+    -	Scaled the input features using “StandardScaler” to ensure that all features contribute equally to the model’s performance.
 
 Summary
 
